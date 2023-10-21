@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://l7155tetiavp"
+path="res://.godot/imported/Stage011.obj-1fe1211e527300246bed55ea2947e96a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Stage011.obj-1fe1211e527300246bed55ea2947e96a.mesh"]
+
+source_file="res://Stage/Stage011TestScene/Stage011.obj"
+dest_files=["res://.godot/imported/Stage011.obj-1fe1211e527300246bed55ea2947e96a.mesh", "res://.godot/imported/Stage011.obj-1fe1211e527300246bed55ea2947e96a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,3292 @@
+# Blender 3.6.5 MTL File: 'None'
+# www.blender.org
+
+newmtl stg011_o_A01_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluewoodfence_a.png
+map_d myk_dm_Bluewoodfence_a.png
+
+newmtl stg011_o_A01_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A01_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_b.png
+map_d myk_dm_plant_b.png
+
+newmtl stg011_o_A01_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_e.png
+map_d myk_dm_plant_e.png
+
+newmtl stg011_o_A01_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A01_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_b.png
+map_d myk_dm_stg011_Stonecriff_b.png
+
+newmtl stg011_o_A01_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_kusa2.png
+map_d myk_sw_stg011_kusa2.png
+
+newmtl stg011_o_A01_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_Stonewall02.png
+map_d myk_sw_Stonewall02.png
+
+newmtl stg011_o_A01_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_a.png
+map_d myk_dm_stg011_Stonecriff_a.png
+
+newmtl stg011_o_A01_Material_0009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_o_A01_Material_0010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_water01.png
+map_d myk_sw_water01.png
+
+newmtl stg011_o_A01_Material_0011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_c.png
+map_d myk_dm_Mortarwall_c.png
+
+newmtl stg011_o_A01_Material_0012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_o_A02_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_a.png
+map_d myk_dm_stg011_Stonecriff_a.png
+
+newmtl stg011_o_A02_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_o_A02_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_b.png
+map_d myk_dm_stg011_Stonecriff_b.png
+
+newmtl stg011_o_A02_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A02_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_Stonewall02.png
+map_d myk_sw_Stonewall02.png
+
+newmtl stg011_o_A02_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_o_A02_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_c.png
+map_d myk_dm_Mortarwall_c.png
+
+newmtl stg011_o_A02_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_b.png
+map_d myk_dm_plant_b.png
+
+newmtl stg011_o_A02_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_e.png
+map_d myk_dm_plant_e.png
+
+newmtl stg011_o_A02_Material_0009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A02_Material_0010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_kusa2.png
+map_d myk_sw_stg011_kusa2.png
+
+newmtl stg011_o_A03_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_o_A03_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_a.png
+map_d myk_dm_stg011_Stonecriff_a.png
+
+newmtl stg011_o_A03_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_b.png
+map_d myk_dm_stg011_Stonecriff_b.png
+
+newmtl stg011_o_A03_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_Stonewall02.png
+map_d myk_sw_Stonewall02.png
+
+newmtl stg011_o_A03_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_builparts_a.png
+map_d myk_sw_builparts_a.png
+
+newmtl stg011_o_A03_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A03_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_b.png
+map_d myk_dm_plant_b.png
+
+newmtl stg011_o_A03_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_e.png
+map_d myk_dm_plant_e.png
+
+newmtl stg011_o_A03_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A03_Material_0009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_kusa2.png
+map_d myk_sw_stg011_kusa2.png
+
+newmtl stg011_o_A04_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_a.png
+map_d myk_dm_stg011_Stonecriff_a.png
+
+newmtl stg011_o_A04_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_o_A04_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_b.png
+map_d myk_dm_stg011_Stonecriff_b.png
+
+newmtl stg011_o_A04_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_water01.png
+map_d myk_sw_water01.png
+
+newmtl stg011_o_A04_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_Stonewall02.png
+map_d myk_sw_Stonewall02.png
+
+newmtl stg011_o_A04_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A04_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_b.png
+map_d myk_dm_plant_b.png
+
+newmtl stg011_o_A04_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_e.png
+map_d myk_dm_plant_e.png
+
+newmtl stg011_o_A04_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A04_Material_0009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_kusa2.png
+map_d myk_sw_stg011_kusa2.png
+
+newmtl stg011_o_A05_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greenwoodfence_a.png
+map_d myk_dm_Greenwoodfence_a.png
+
+newmtl stg011_o_A05_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A05_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A05_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_b.png
+map_d myk_dm_plant_b.png
+
+newmtl stg011_o_A05_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_water01.png
+map_d myk_sw_water01.png
+
+newmtl stg011_o_A05_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_o_A05_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_e.png
+map_d myk_dm_plant_e.png
+
+newmtl stg011_o_A05_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_kusa2.png
+map_d myk_sw_stg011_kusa2.png
+
+newmtl stg011_o_A05_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_b.png
+map_d myk_dm_stg011_Stonecriff_b.png
+
+newmtl stg011_o_A05_Material_0009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_a.png
+map_d myk_dm_stg011_Stonecriff_a.png
+
+newmtl stg011_o_A05_Material_0010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A05_Material_0011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_o_A05_Material_0012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_c.png
+map_d myk_dm_Mortarwall_c.png
+
+newmtl stg011_o_A06_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_a.png
+map_d myk_dm_stg011_Stonecriff_a.png
+
+newmtl stg011_o_A06_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_b.png
+map_d myk_dm_stg011_Stonecriff_b.png
+
+newmtl stg011_o_A06_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A06_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_water01.png
+map_d myk_sw_water01.png
+
+newmtl stg011_o_A06_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_c.png
+map_d myk_dm_Mortarwall_c.png
+
+newmtl stg011_o_A06_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A06_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_o_A06_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A06_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_o_A06_Material_0009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_e.png
+map_d myk_dm_plant_e.png
+
+newmtl stg011_o_A06_Material_0010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_b.png
+map_d myk_dm_plant_b.png
+
+newmtl stg011_o_A06_Material_0011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_kusa2.png
+map_d myk_sw_stg011_kusa2.png
+
+newmtl stg011_o_A07_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_b.png
+map_d myk_dm_stg011_Stonecriff_b.png
+
+newmtl stg011_o_A07_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_o_A07_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_water01.png
+map_d myk_sw_water01.png
+
+newmtl stg011_o_A07_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_Stonewall02.png
+map_d myk_sw_Stonewall02.png
+
+newmtl stg011_o_A07_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_builparts_a.png
+map_d myk_sw_builparts_a.png
+
+newmtl stg011_o_A07_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A07_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_a.png
+map_d myk_dm_stg011_Stonecriff_a.png
+
+newmtl stg011_o_A07_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_b.png
+map_d myk_dm_plant_b.png
+
+newmtl stg011_o_A07_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_kusa2.png
+map_d myk_sw_stg011_kusa2.png
+
+newmtl stg011_o_A08_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_a.png
+map_d myk_dm_stg011_Stonecriff_a.png
+
+newmtl stg011_o_A08_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_b.png
+map_d myk_dm_stg011_Stonecriff_b.png
+
+newmtl stg011_o_A08_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_o_A08_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_Stonewall02.png
+map_d myk_sw_Stonewall02.png
+
+newmtl stg011_o_A08_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_e.png
+map_d myk_dm_plant_e.png
+
+newmtl stg011_o_A08_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A08_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_b.png
+map_d myk_dm_plant_b.png
+
+newmtl stg011_o_A08_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_kusa2.png
+map_d myk_sw_stg011_kusa2.png
+
+newmtl stg011_o_A09_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_o_A09_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_a.png
+map_d myk_dm_stg011_Stonecriff_a.png
+
+newmtl stg011_o_A09_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_b.png
+map_d myk_dm_stg011_Stonecriff_b.png
+
+newmtl stg011_o_A09_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Redwoodfence_a.png
+map_d myk_dm_Redwoodfence_a.png
+
+newmtl stg011_o_A09_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A09_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A09_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_e.png
+map_d myk_dm_plant_e.png
+
+newmtl stg011_o_A09_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_b.png
+map_d myk_dm_plant_b.png
+
+newmtl stg011_o_A09_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_kusa2.png
+map_d myk_sw_stg011_kusa2.png
+
+newmtl stg011_o_A10_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_a.png
+map_d myk_dm_stg011_Stonecriff_a.png
+
+newmtl stg011_o_A10_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_b.png
+map_d myk_dm_stg011_Stonecriff_b.png
+
+newmtl stg011_o_A10_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_o_A10_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_Stonewall02.png
+map_d myk_sw_Stonewall02.png
+
+newmtl stg011_o_A10_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_o_A10_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A10_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_builparts_a.png
+map_d myk_sw_builparts_a.png
+
+newmtl stg011_o_A10_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A10_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_e.png
+map_d myk_dm_plant_e.png
+
+newmtl stg011_o_A10_Material_0009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_b.png
+map_d myk_dm_plant_b.png
+
+newmtl stg011_o_A10_Material_0010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_kusa2.png
+map_d myk_sw_stg011_kusa2.png
+
+newmtl stg011_o_A11_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A11_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Redwindow_a.png
+map_d myk_dm_Redwindow_a.png
+
+newmtl stg011_o_A11_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_e.png
+map_d myk_dm_Reddoor_e.png
+
+newmtl stg011_o_A11_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A11_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Redwoodfence_a.png
+map_d myk_dm_Redwoodfence_a.png
+
+newmtl stg011_o_A11_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A11_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_Stonewall02.png
+map_d myk_sw_Stonewall02.png
+
+newmtl stg011_o_A11_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_c.png
+map_d myk_dm_Reddoor_c.png
+
+newmtl stg011_o_A11_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortardart_a.png
+map_d myk_dm_Mortardart_a.png
+
+newmtl stg011_o_A11_Material_0009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Tamastone_a.png
+map_d myk_dm_Tamastone_a.png
+
+newmtl stg011_o_A11_Material_0010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_o_A11_Material_0011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_d.png
+map_d myk_dm_Reddoor_d.png
+
+newmtl stg011_o_A11_Material_0012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_d.png
+map_d myk_dm_Bluedoor_d.png
+
+newmtl stg011_o_A11_Material_0013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluewindow_a.png
+map_d myk_dm_Bluewindow_a.png
+
+newmtl stg011_o_A11_Material_0014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greendoor_d.png
+map_d myk_dm_Greendoor_d.png
+
+newmtl stg011_o_A11_Material_0015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greenwindow_a.png
+map_d myk_dm_Greenwindow_a.png
+
+newmtl stg011_o_A11_Material_0016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greenwoodfence_a.png
+map_d myk_dm_Greenwoodfence_a.png
+
+newmtl stg011_o_A11_Material_0017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_c.png
+map_d myk_dm_Bluedoor_c.png
+
+newmtl stg011_o_A11_Material_0018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluewoodfence_a.png
+map_d myk_dm_Bluewoodfence_a.png
+
+newmtl stg011_o_A11_Material_0019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_e.png
+map_d myk_dm_Bluedoor_e.png
+
+newmtl stg011_o_A11_Material_0020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_housebase_a.png
+map_d myk_dm_housebase_a.png
+
+newmtl stg011_o_A11_Material_0021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_o_A11_Material_0022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_a.png
+map_d myk_dm_stg011_Stonecriff_a.png
+
+newmtl stg011_o_A11_Material_0023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_b.png
+map_d myk_dm_stg011_Stonecriff_b.png
+
+newmtl stg011_o_A11_Material_0024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_b.png
+map_d myk_dm_plant_b.png
+
+newmtl stg011_o_A11_Material_0025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_e.png
+map_d myk_dm_plant_e.png
+
+newmtl stg011_o_A11_Material_0026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_kusa2.png
+map_d myk_sw_stg011_kusa2.png
+
+newmtl stg011_o_A12_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_c.png
+map_d myk_dm_Bluedoor_c.png
+
+newmtl stg011_o_A12_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluewoodfence_a.png
+map_d myk_dm_Bluewoodfence_a.png
+
+newmtl stg011_o_A12_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluewindow_a.png
+map_d myk_dm_Bluewindow_a.png
+
+newmtl stg011_o_A12_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_d.png
+map_d myk_dm_Bluedoor_d.png
+
+newmtl stg011_o_A12_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A12_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A12_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Redwindow_a.png
+map_d myk_dm_Redwindow_a.png
+
+newmtl stg011_o_A12_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_c.png
+map_d myk_dm_Reddoor_c.png
+
+newmtl stg011_o_A12_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortardart_a.png
+map_d myk_dm_Mortardart_a.png
+
+newmtl stg011_o_A12_Material_0009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_b.png
+map_d myk_dm_Mortarwall_b.png
+
+newmtl stg011_o_A12_Material_0010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_b.png
+map_d myk_dm_Reddoor_b.png
+
+newmtl stg011_o_A12_Material_0011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Tamastone_a.png
+map_d myk_dm_Tamastone_a.png
+
+newmtl stg011_o_A12_Material_0012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_Stonewall02.png
+map_d myk_sw_Stonewall02.png
+
+newmtl stg011_o_A12_Material_0013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_o_A12_Material_0014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_e.png
+map_d myk_dm_Bluedoor_e.png
+
+newmtl stg011_o_A12_Material_0015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A12_Material_0016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greendoor_d.png
+map_d myk_dm_Greendoor_d.png
+
+newmtl stg011_o_A12_Material_0017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greenwindow_a.png
+map_d myk_dm_Greenwindow_a.png
+
+newmtl stg011_o_A12_Material_0018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_e.png
+map_d myk_dm_Reddoor_e.png
+
+newmtl stg011_o_A12_Material_0019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Redwoodfence_a.png
+map_d myk_dm_Redwoodfence_a.png
+
+newmtl stg011_o_A12_Material_0020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greenwoodfence_a.png
+map_d myk_dm_Greenwoodfence_a.png
+
+newmtl stg011_o_A12_Material_0021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_d.png
+map_d myk_dm_Reddoor_d.png
+
+newmtl stg011_o_A12_Material_0022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Planterbase_a.png
+map_d myk_dm_Planterbase_a.png
+
+newmtl stg011_o_A12_Material_0023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_potflower_a.png
+map_d myk_dm_potflower_a.png
+
+newmtl stg011_o_A12_Material_0024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_lamp_a.png
+map_d myk_dm_lamp_a.png
+
+newmtl stg011_o_A12_Material_0025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A12_Material_0026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_builparts_a.png
+map_d myk_sw_builparts_a.png
+
+newmtl stg011_o_A12_Material_0027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Flowerbase_a.png
+map_d myk_dm_Flowerbase_a.png
+
+newmtl stg011_o_A12_Material_0028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_woodbox_a.png
+map_d myk_dm_woodbox_a.png
+
+newmtl stg011_o_A13_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_c.png
+map_d myk_dm_Bluedoor_c.png
+
+newmtl stg011_o_A13_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluewindow_a.png
+map_d myk_dm_Bluewindow_a.png
+
+newmtl stg011_o_A13_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortardart_a.png
+map_d myk_dm_Mortardart_a.png
+
+newmtl stg011_o_A13_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Tamastone_a.png
+map_d myk_dm_Tamastone_a.png
+
+newmtl stg011_o_A13_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A13_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A13_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_Stonewall02.png
+map_d myk_sw_Stonewall02.png
+
+newmtl stg011_o_A13_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_o_A13_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_d.png
+map_d myk_dm_Bluedoor_d.png
+
+newmtl stg011_o_A13_Material_0009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluewoodfence_a.png
+map_d myk_dm_Bluewoodfence_a.png
+
+newmtl stg011_o_A13_Material_0010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A13_Material_0011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greenwindow_a.png
+map_d myk_dm_Greenwindow_a.png
+
+newmtl stg011_o_A13_Material_0012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greendoor_d.png
+map_d myk_dm_Greendoor_d.png
+
+newmtl stg011_o_A13_Material_0013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_e.png
+map_d myk_dm_Bluedoor_e.png
+
+newmtl stg011_o_A13_Material_0014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Redwindow_a.png
+map_d myk_dm_Redwindow_a.png
+
+newmtl stg011_o_A13_Material_0015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_c.png
+map_d myk_dm_Reddoor_c.png
+
+newmtl stg011_o_A13_Material_0016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_b.png
+map_d myk_dm_Mortarwall_b.png
+
+newmtl stg011_o_A13_Material_0017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_b.png
+map_d myk_dm_Reddoor_b.png
+
+newmtl stg011_o_A13_Material_0018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Planterbase_a.png
+map_d myk_dm_Planterbase_a.png
+
+newmtl stg011_o_A13_Material_0019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_potflower_a.png
+map_d myk_dm_potflower_a.png
+
+newmtl stg011_o_A13_Material_0020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_d.png
+map_d myk_dm_Reddoor_d.png
+
+newmtl stg011_o_A13_Material_0021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_ya_wall_c.png
+map_d myk_ya_wall_c.png
+
+newmtl stg011_o_A13_Material_0022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_e.png
+map_d myk_dm_Reddoor_e.png
+
+newmtl stg011_o_A13_Material_0023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Redwoodfence_a.png
+map_d myk_dm_Redwoodfence_a.png
+
+newmtl stg011_o_A13_Material_0024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greenwoodfence_a.png
+map_d myk_dm_Greenwoodfence_a.png
+
+newmtl stg011_o_A13_Material_0025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_woodbox_a.png
+map_d myk_dm_woodbox_a.png
+
+newmtl stg011_o_A13_Material_0026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_lamp_a.png
+map_d myk_dm_lamp_a.png
+
+newmtl stg011_o_A13_Material_0027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillmaterial_a.png
+map_d myk_dm_Windmillmaterial_a.png
+
+newmtl stg011_o_A13_Material_0028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_tk_windmill_low.png
+map_d myk_tk_windmill_low.png
+
+newmtl stg011_o_A13_Material_0029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_tk_Windmill_Bell_a.png
+map_d myk_tk_Windmill_Bell_a.png
+
+newmtl stg011_o_A13_Material_0030
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Flowerbase_a.png
+map_d myk_dm_Flowerbase_a.png
+
+newmtl stg011_o_A13_Material_0031
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A13_Material_0032
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_builparts_a.png
+map_d myk_sw_builparts_a.png
+
+newmtl stg011_o_A14_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A14_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A14_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluewindow_a.png
+map_d myk_dm_Bluewindow_a.png
+
+newmtl stg011_o_A14_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_d.png
+map_d myk_dm_Bluedoor_d.png
+
+newmtl stg011_o_A14_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Redwindow_a.png
+map_d myk_dm_Redwindow_a.png
+
+newmtl stg011_o_A14_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_c.png
+map_d myk_dm_Reddoor_c.png
+
+newmtl stg011_o_A14_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_d.png
+map_d myk_dm_Reddoor_d.png
+
+newmtl stg011_o_A14_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greendoor_d.png
+map_d myk_dm_Greendoor_d.png
+
+newmtl stg011_o_A14_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greenwindow_a.png
+map_d myk_dm_Greenwindow_a.png
+
+newmtl stg011_o_A14_Material_0009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greenwoodfence_a.png
+map_d myk_dm_Greenwoodfence_a.png
+
+newmtl stg011_o_A14_Material_0010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A14_Material_0011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_b.png
+map_d myk_dm_Mortarwall_b.png
+
+newmtl stg011_o_A14_Material_0012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greendoor_b.png
+map_d myk_dm_Greendoor_b.png
+
+newmtl stg011_o_A14_Material_0013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_c.png
+map_d myk_dm_Bluedoor_c.png
+
+newmtl stg011_o_A14_Material_0014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluewoodfence_a.png
+map_d myk_dm_Bluewoodfence_a.png
+
+newmtl stg011_o_A14_Material_0015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_e.png
+map_d myk_dm_Reddoor_e.png
+
+newmtl stg011_o_A14_Material_0016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Redwoodfence_a.png
+map_d myk_dm_Redwoodfence_a.png
+
+newmtl stg011_o_A14_Material_0017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_Stonewall02.png
+map_d myk_sw_Stonewall02.png
+
+newmtl stg011_o_A14_Material_0018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortardart_a.png
+map_d myk_dm_Mortardart_a.png
+
+newmtl stg011_o_A14_Material_0019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Tamastone_a.png
+map_d myk_dm_Tamastone_a.png
+
+newmtl stg011_o_A14_Material_0020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_o_A14_Material_0021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_b.png
+map_d myk_dm_Reddoor_b.png
+
+newmtl stg011_o_A14_Material_0022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_e.png
+map_d myk_dm_Bluedoor_e.png
+
+newmtl stg011_o_A14_Material_0023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A14_Material_0024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_builparts_a.png
+map_d myk_sw_builparts_a.png
+
+newmtl stg011_o_A14_Material_0025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Planterbase_a.png
+map_d myk_dm_Planterbase_a.png
+
+newmtl stg011_o_A14_Material_0026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_potflower_a.png
+map_d myk_dm_potflower_a.png
+
+newmtl stg011_o_A14_Material_0027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_housebase_a.png
+map_d myk_dm_housebase_a.png
+
+newmtl stg011_o_A14_Material_0028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillmaterial_a.png
+map_d myk_dm_Windmillmaterial_a.png
+
+newmtl stg011_o_A14_Material_0029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_tk_windmill_low.png
+map_d myk_tk_windmill_low.png
+
+newmtl stg011_o_A14_Material_0030
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_tk_Windmill_Bell_a.png
+map_d myk_tk_Windmill_Bell_a.png
+
+newmtl stg011_o_A14_Material_0031
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_woodbox_a.png
+map_d myk_dm_woodbox_a.png
+
+newmtl stg011_o_A14_Material_0032
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_lamp_a.png
+map_d myk_dm_lamp_a.png
+
+newmtl stg011_o_A14_Material_0033
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Flowerbase_a.png
+map_d myk_dm_Flowerbase_a.png
+
+newmtl stg011_o_A15_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillmaterial_a.png
+map_d myk_dm_Windmillmaterial_a.png
+
+newmtl stg011_o_A15_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_tk_windmill_low.png
+map_d myk_tk_windmill_low.png
+
+newmtl stg011_o_A15_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_b.png
+map_d myk_dm_Mortarwall_b.png
+
+newmtl stg011_o_A15_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A15_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A15_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_tk_Windmill_Bell_a.png
+map_d myk_tk_Windmill_Bell_a.png
+
+newmtl stg011_o_A15_Material_0006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluewindow_a.png
+map_d myk_dm_Bluewindow_a.png
+
+newmtl stg011_o_A15_Material_0007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_d.png
+map_d myk_dm_Bluedoor_d.png
+
+newmtl stg011_o_A15_Material_0008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_c.png
+map_d myk_dm_Bluedoor_c.png
+
+newmtl stg011_o_A15_Material_0009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluewoodfence_a.png
+map_d myk_dm_Bluewoodfence_a.png
+
+newmtl stg011_o_A15_Material_0010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greendoor_d.png
+map_d myk_dm_Greendoor_d.png
+
+newmtl stg011_o_A15_Material_0011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greenwindow_a.png
+map_d myk_dm_Greenwindow_a.png
+
+newmtl stg011_o_A15_Material_0012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortardart_a.png
+map_d myk_dm_Mortardart_a.png
+
+newmtl stg011_o_A15_Material_0013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Rawngrass_a.png
+map_d myk_sw_stg011_Rawngrass_a.png
+
+newmtl stg011_o_A15_Material_0014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Planterbase_a.png
+map_d myk_dm_Planterbase_a.png
+
+newmtl stg011_o_A15_Material_0015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_potflower_a.png
+map_d myk_dm_potflower_a.png
+
+newmtl stg011_o_A15_Material_0016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Redwindow_a.png
+map_d myk_dm_Redwindow_a.png
+
+newmtl stg011_o_A15_Material_0017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_d.png
+map_d myk_dm_Reddoor_d.png
+
+newmtl stg011_o_A15_Material_0018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_ya_wall_c.png
+map_d myk_ya_wall_c.png
+
+newmtl stg011_o_A15_Material_0019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_b.png
+map_d myk_dm_Reddoor_b.png
+
+newmtl stg011_o_A15_Material_0020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_c.png
+map_d myk_dm_Reddoor_c.png
+
+newmtl stg011_o_A15_Material_0021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Tamastone_a.png
+map_d myk_dm_Tamastone_a.png
+
+newmtl stg011_o_A15_Material_0022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_Stonewall02.png
+map_d myk_sw_Stonewall02.png
+
+newmtl stg011_o_A15_Material_0023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_o_A15_Material_0024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_e.png
+map_d myk_dm_Bluedoor_e.png
+
+newmtl stg011_o_A15_Material_0025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greendoor_b.png
+map_d myk_dm_Greendoor_b.png
+
+newmtl stg011_o_A15_Material_0026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Reddoor_e.png
+map_d myk_dm_Reddoor_e.png
+
+newmtl stg011_o_A15_Material_0027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Redwoodfence_a.png
+map_d myk_dm_Redwoodfence_a.png
+
+newmtl stg011_o_A15_Material_0028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greenwoodfence_a.png
+map_d myk_dm_Greenwoodfence_a.png
+
+newmtl stg011_o_A15_Material_0029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_tree01.png
+map_d myk_sw_tree01.png
+
+newmtl stg011_o_A15_Material_0030
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_builparts_a.png
+map_d myk_sw_builparts_a.png
+
+newmtl stg011_o_A15_Material_0031
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Treeleaf_a.png
+map_d myk_dm_Treeleaf_a.png
+
+newmtl stg011_o_A15_Material_0032
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Treetrunk_a.png
+map_d myk_dm_Treetrunk_a.png
+
+newmtl stg011_o_A15_Material_0033
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_woodbox_a.png
+map_d myk_dm_woodbox_a.png
+
+newmtl stg011_o_A15_Material_0034
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_lamp_a.png
+map_d myk_dm_lamp_a.png
+
+newmtl stg011_o_A15_Material_0035
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Flowerbase_a.png
+map_d myk_dm_Flowerbase_a.png
+
+newmtl stg011_o_A15_Material_0036
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_plant_b.png
+map_d myk_dm_plant_b.png
+
+newmtl stg011_o_A30_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillmaterial_a.png
+map_d myk_dm_Windmillmaterial_a.png
+
+newmtl stg011_o_A30_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillmaterial_a.png
+map_d myk_dm_Windmillmaterial_a.png
+
+newmtl stg011_o_A30_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_windmillcloth_a.png
+map_d myk_dm_windmillcloth_a.png
+
+newmtl stg011_o_A30_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A30_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillstraw_a.png
+map_d myk_dm_Windmillstraw_a.png
+
+newmtl stg011_o_A30_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_d.png
+map_d myk_dm_Bluedoor_d.png
+
+newmtl stg011_o_A31_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillmaterial_a.png
+map_d myk_dm_Windmillmaterial_a.png
+
+newmtl stg011_o_A31_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillmaterial_a.png
+map_d myk_dm_Windmillmaterial_a.png
+
+newmtl stg011_o_A31_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_windmillcloth_a.png
+map_d myk_dm_windmillcloth_a.png
+
+newmtl stg011_o_A31_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A31_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillstraw_a.png
+map_d myk_dm_Windmillstraw_a.png
+
+newmtl stg011_o_A31_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_d.png
+map_d myk_dm_Bluedoor_d.png
+
+newmtl stg011_o_A32_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillmaterial_a.png
+map_d myk_dm_Windmillmaterial_a.png
+
+newmtl stg011_o_A32_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillmaterial_a.png
+map_d myk_dm_Windmillmaterial_a.png
+
+newmtl stg011_o_A32_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_windmillcloth_a.png
+map_d myk_dm_windmillcloth_a.png
+
+newmtl stg011_o_A32_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A32_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillstraw_a.png
+map_d myk_dm_Windmillstraw_a.png
+
+newmtl stg011_o_A32_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_d.png
+map_d myk_dm_Bluedoor_d.png
+
+newmtl stg011_o_A33_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillmaterial_a.png
+map_d myk_dm_Windmillmaterial_a.png
+
+newmtl stg011_o_A33_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillmaterial_a.png
+map_d myk_dm_Windmillmaterial_a.png
+
+newmtl stg011_o_A33_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_windmillcloth_a.png
+map_d myk_dm_windmillcloth_a.png
+
+newmtl stg011_o_A33_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_o_A33_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Windmillstraw_a.png
+map_d myk_dm_Windmillstraw_a.png
+
+newmtl stg011_o_A33_Material_0005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Bluedoor_d.png
+map_d myk_dm_Bluedoor_d.png
+
+newmtl stg011_og_A01_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Grass02.png
+map_d myk_sw_stg011_Grass02.png
+
+newmtl stg011_og_A01_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_og_A02_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Grass02.png
+map_d myk_sw_stg011_Grass02.png
+
+newmtl stg011_og_A02_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_og_A03_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Grass02.png
+map_d myk_sw_stg011_Grass02.png
+
+newmtl stg011_og_A03_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_og_A04_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Grass02.png
+map_d myk_sw_stg011_Grass02.png
+
+newmtl stg011_og_A04_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_og_A05_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Greenwoodfence_a.png
+map_d myk_dm_Greenwoodfence_a.png
+
+newmtl stg011_og_A05_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Grass02.png
+map_d myk_sw_stg011_Grass02.png
+
+newmtl stg011_og_A05_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_og_A06_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Grass02.png
+map_d myk_sw_stg011_Grass02.png
+
+newmtl stg011_og_A06_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_og_A06_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Stonecriff_a.png
+map_d myk_dm_stg011_Stonecriff_a.png
+
+newmtl stg011_og_A07_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_og_A08_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Grass02.png
+map_d myk_sw_stg011_Grass02.png
+
+newmtl stg011_og_A08_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_og_A09_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_og_A09_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Grass02.png
+map_d myk_sw_stg011_Grass02.png
+
+newmtl stg011_og_A10_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_og_A10_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Grass02.png
+map_d myk_sw_stg011_Grass02.png
+
+newmtl stg011_og_A11_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_sw_stg011_Grass02.png
+map_d myk_sw_stg011_Grass02.png
+
+newmtl stg011_og_A11_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
+
+newmtl stg011_og_A12_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_og_A12_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Stoneroad_a.png
+map_d myk_dm_Stoneroad_a.png
+
+newmtl stg011_og_A12_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_og_A12_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_housebase_a.png
+map_d myk_dm_housebase_a.png
+
+newmtl stg011_og_A13_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Stoneroad_a.png
+map_d myk_dm_Stoneroad_a.png
+
+newmtl stg011_og_A13_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_og_A13_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_housebase_a.png
+map_d myk_dm_housebase_a.png
+
+newmtl stg011_og_A13_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_og_A14_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Stoneroad_a.png
+map_d myk_dm_Stoneroad_a.png
+
+newmtl stg011_og_A14_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_og_A14_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_housebase_a.png
+map_d myk_dm_housebase_a.png
+
+newmtl stg011_og_A15_Material_0000
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Stoneroad_a.png
+map_d myk_dm_Stoneroad_a.png
+
+newmtl stg011_og_A15_Material_0001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_housebase_a.png
+map_d myk_dm_housebase_a.png
+
+newmtl stg011_og_A15_Material_0002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_d.png
+map_d myk_dm_Mortarwall_d.png
+
+newmtl stg011_og_A15_Material_0003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_Mortarwall_road_a.png
+map_d myk_dm_Mortarwall_road_a.png
+
+newmtl stg011_og_A15_Material_0004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd myk_dm_stg011_Grass_a.png
+map_d myk_dm_stg011_Grass_a.png
